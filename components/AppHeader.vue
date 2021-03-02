@@ -6,12 +6,9 @@
 
         <v-col><h1>Add Weekly Lesson</h1></v-col>
         <v-col>
-          <img
-            src="@/assets/BB_Logo_Wordmark_RGB_HorizontalWhite.jpg"
-            class="img"
-          />
+
         </v-col>
-        <v-col></v-col>
+       <!-- <v-col>{{ students}}</v-col>-->
       </v-row>
 
 </v-container>
